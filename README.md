@@ -3,7 +3,7 @@
 Ini adalah program kalkulator sederhana yang dibuat menggunakan bahasa pemrograman Java. 
 Program ini memungkinkan pengguna untuk melakukan operasi penjumlahan, pengurangan, perkalian, dan pembagian antara dua angka.
 
-## Cara Menggunakan
+## Cara Penggunaan
 
 1. Pastikan Anda memiliki Java Development Kit (JDK) terinstal di komputer Anda.
 2. Clone repositori ini ke komputer Anda.
