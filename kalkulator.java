@@ -20,28 +20,5 @@ public class kalkulator {
         System.out.printf("masukan pilihan (1/2/3/4): ");
         int pilih = input.nextInt(); // inisialisasi tipe data int untuk menyimpan hasil scanner
 
-	// Method untuk operasi penjumlahan
-    	public static double penjumlahan(double x, double y) {
-        	return x + y;
-    	}
-
-    	// Method untuk operasi pengurangan
-    	public static double pengurangan(double x, double y) {
-        	return x - y;
-    	}
-
-    	// Method untuk operasi perkalian
-    	public static double perkalian(double x, double y) {
-        	return x * y;
-    	}
-
-    	// Method untuk operasi pembagian
-    	public static double pembagian(double x, double y) {
-        if (y != 0) {
-            	return x / y;
-        } else {
-            System.out.println("Error: Pembagian dengan angka nol tidak dapat dilakukan.");
-            	return 0;
-        }
-    	}
+    }
 }
